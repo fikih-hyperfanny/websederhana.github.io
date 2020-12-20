@@ -1,0 +1,9 @@
+body{
+	background-color: green;
+	object-position: cover;
+}
+p{
+	font-size: 200%;
+	font-style: italic;
+	font-weight: 10px;
+}
